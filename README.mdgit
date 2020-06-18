@@ -1,0 +1,1 @@
+"# cursos"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/jvrs2812/cursos.gitgit push -u origin master                
